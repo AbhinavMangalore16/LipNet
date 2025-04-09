@@ -178,7 +178,7 @@ cython_debug/
 
 #notebook 
 *.ipynb_checkpoints
-*.ipynb 
+
 
 *.mpg
 *.
